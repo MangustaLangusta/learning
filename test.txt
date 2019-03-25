@@ -1,1 +1,2 @@
 Hello git!
+It's new line by MangustaLangusta
