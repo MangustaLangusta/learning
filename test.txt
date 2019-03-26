@@ -1,5 +1,6 @@
-rebase!
+commit 2rebase!
 Hello git!
+commit 4
 It's new line by MangustaLangusta
 Add new line 
 Thisis for dev branch
