@@ -1,3 +1,4 @@
+lalala
 Hello git!
 It's new line by MangustaLangusta
 Add new line 
