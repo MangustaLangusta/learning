@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is for dev branch new file by sergo
 I can write in dev branch directly!!!
+=======
+This is for dev branch new file by sergo 
+aga!
+>>>>>>> Changed
