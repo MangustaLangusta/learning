@@ -1,9 +1,17 @@
 /*
 my std::function implementation for training purposes
 
+Что интересного: 
+  - Variadic templates
+  - Unpacking of variadic templates (в методе InvokeMemberFunction)
+
 Инициализировать объект указателем на функцию или объектом-функцией и вызвать оператор () - Есть
-Поддержка операторов присваивания и копирующего конструктора
+Поддержка операторов присваивания и копирующего конструктора - Есть
 Поддержка указателей на функции-члены - Есть
+
+Сделано на базе статьи "Пишем свой std::function"
+https://habr.com/ru/articles/159389/
+
 */
 
 #include <iostream>
