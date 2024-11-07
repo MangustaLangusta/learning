@@ -1,2 +1,0 @@
-<h1>Hello git!</h1>
-<h2>For rebasing</h2>
