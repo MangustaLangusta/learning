@@ -12,6 +12,7 @@ my std::function implementation for training purposes
 Сделано на базе статьи "Пишем свой std::function"
 https://habr.com/ru/articles/159389/
 
+Целью было изучить вариативные шаблоны, поэтому аргументы передаются во многих случаях просто по значению, хотя это можно было бы оптимизировать.
 */
 
 #include <iostream>
